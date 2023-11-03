@@ -1,6 +1,9 @@
 # How to execute this project
 
-You can find the live presentation in `presentation` folder.
+You can find the live presentation support in `presentation` folder.
+Also, you can view the live presentation on [my youtube channel](https://www.youtube.com/watch?v=C0wkeNzQqCg).
+
+## Installation
 
 Firstly, you should clone the repository
 
@@ -19,6 +22,8 @@ Thirdly, you should install the dependencies:
 ```
 > composer install
 ```
+
+## Run unit tests
 
 And now, you can execute unit tests:
 
