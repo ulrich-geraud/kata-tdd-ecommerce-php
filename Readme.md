@@ -1,4 +1,4 @@
-# How to execute this project
+# Kata TDD (Test-Driven Development) in PHP (Ecommerce project)
 
 You can find the live presentation support in `presentation` folder.
 Also, you can view the live presentation on [my youtube channel](https://www.youtube.com/watch?v=C0wkeNzQqCg).
